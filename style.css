@@ -11,10 +11,20 @@
     background-color: rgb(228, 116, 116);
 }
 .images{
-    width: 250px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
 }
 .pictures{
-    width: 350px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
 }
+.mainpic{
+    width: 100%;
+}
+.icons{
+    width: 100%;
+}
+/* .iconpop{
+    width: 20%;
+    height: 20%;
+} */
